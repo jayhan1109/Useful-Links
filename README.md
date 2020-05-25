@@ -38,6 +38,9 @@
 5. Effect Snippets
    https://emilkowalski.github.io/css-effects-snippets/
 
+6. React CSS Transition
+   https://reactcommunity.org/react-transition-group/
+
 ### CSS
 
 1. Gradient
@@ -62,3 +65,8 @@
 
 1. Learning Git
    https://learngitbranching.js.org/?locale=ko
+
+# API
+
+1. Random user generator
+   https://randomuser.me/
