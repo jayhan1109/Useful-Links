@@ -108,9 +108,20 @@
    #### https://github.com/jayhan1109/BizHack
     
    ***
-
-* ## Gymbo
    
+* ## Netflix Clone 
+
+   #### Personal Project
+   
+   #### Dec/16/2019 ~ Jan/17/2020
+   
+   #### Netflix Clone
+
+   #### https://github.com/jayhan1109/netflixclone
+   
+   ***
+  
+* ## Gymbo
 
    #### School Team Project
    
@@ -119,3 +130,5 @@
    #### Find your gymmate or join a event in the campus
 
    #### https://github.com/jayhan1109/GymBo
+
+
