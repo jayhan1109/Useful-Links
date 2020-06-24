@@ -79,26 +79,54 @@
 
 # Portfolio
 
-1. ## Systrack
+- ## Systrack
 
-   #### Personal Project
+  #### Personal Project
 
-   #### June/13/2020 ~ June/14/2020
+  #### June/13/2020 ~ June/14/2020
 
-   #### Check your system information
+  #### Check your system information
 
-   #### https://github.com/jayhan1109/systrack/tree/master
+  #### https://github.com/jayhan1109/systrack
 
-2. Isowaytion
-   https://github.com/jayhan1109/COMP-2800-Team-15-BBY-Isowaytion
+  ***
 
-3. Bizhack
-   https://github.com/jayhan1109/BizHack
+- ## Isowaytion
 
-## Gymbo
+  #### School Team Project
 
-https://github.com/jayhan1109/GymBo
+  #### Apr/20/2020 ~ MAY/22/2020
 
-#### School Team Project
+  #### Navigation for pedestrians and track if the route is crowded
 
-####
+  #### https://github.com/jayhan1109/COMP-2800-Team-15-BBY-Isowaytion
+
+  ***
+
+- ## Bizhack
+  #### UBC Hackathon Team Project
+  #### Feb/8/2020 ~ Feb/9/2020
+  #### UI/UX improvement of BestBuy website
+  #### https://github.com/jayhan1109/BizHack
+  ***
+- ## Netflix Clone
+
+  #### Personal Project
+
+  #### Dec/16/2019 ~ Jan/17/2020
+
+  #### Netflix Clone
+
+  #### https://github.com/jayhan1109/netflixclone
+
+  ***
+
+- ## Gymbo
+
+  #### School Team Project
+
+  #### Sep/2/2019 ~ Dec/9/2019
+
+  #### Find your gymmate or join a event in the campus
+
+  #### https://github.com/jayhan1109/GymBo
