@@ -21,6 +21,12 @@
 5. Bootswatch
    https://bootswatch.com/
 
+6. Hex Color
+   https://www.color-hex.com/
+
+7. Hex Color 2
+   https://htmlcolorcodes.com/
+
 ### Animation
 
 1. animista
@@ -89,9 +95,10 @@
 3. Bizhack
    https://github.com/jayhan1109/BizHack
 
- ## Gymbo
-   https://github.com/jayhan1109/GymBo
+## Gymbo
 
-   #### School Team Project
+https://github.com/jayhan1109/GymBo
 
-   ####
+#### School Team Project
+
+####
