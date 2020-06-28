@@ -133,12 +133,12 @@
 
   ***
 
-- ## Netflix Clone (Updated Version)
+- ## Webflix
 
   #### Personal Project
 
   #### May/28/2020 ~ Jun/28/2020
 
-  #### Netflix Clone
+  #### Netflix Clone (Updated Version than previous one)
 
   #### https://github.com/jayhan1109/Webflix
