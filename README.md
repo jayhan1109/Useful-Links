@@ -133,7 +133,7 @@
 
   ***
 
-- ## Netflix Clone (Better Version)
+- ## Netflix Clone (Updated Version)
 
   #### Personal Project
 
